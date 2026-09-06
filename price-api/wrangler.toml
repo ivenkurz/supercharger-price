@@ -1,0 +1,10 @@
+name = "suc-price-api"
+main = "src/index.ts"
+compatibility_date = "2025-09-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "suc-price"
+# Replace with the id from: wrangler d1 create suc-price
+database_id = "00000000-0000-0000-0000-000000000000"
+migrations_dir = "migrations"
