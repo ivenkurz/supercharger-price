@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-13T03:14:51.952Z",
+  "generatedAt": "2026-09-16T03:09:04.119Z",
   "environment": "production",
   "stats": {
     "countries": 33,
@@ -9,156 +9,156 @@
   "exchangeRates": {
     "schemaVersion": 1,
     "base": "EUR",
-    "fetchedAt": "2026-09-13T03:14:51.951Z",
+    "fetchedAt": "2026-09-16T03:09:04.118Z",
     "rates": {
       "EUR": {
         "rate": 1,
-        "date": "2026-09-11",
+        "date": "2026-09-15",
         "provider": "IDENTITY"
       },
       "USD": {
-        "rate": 1.1592,
-        "date": "2026-09-11",
+        "rate": 1.1539,
+        "date": "2026-09-15",
         "provider": "ECB"
       },
       "JPY": {
-        "rate": 178.56,
-        "date": "2026-09-11",
+        "rate": 178.86,
+        "date": "2026-09-15",
         "provider": "ECB"
       },
       "CZK": {
-        "rate": 24.264,
-        "date": "2026-09-11",
+        "rate": 24.292,
+        "date": "2026-09-15",
         "provider": "ECB"
       },
       "DKK": {
-        "rate": 7.4748,
-        "date": "2026-09-11",
+        "rate": 7.4752,
+        "date": "2026-09-15",
         "provider": "ECB"
       },
       "GBP": {
-        "rate": 0.85815,
-        "date": "2026-09-11",
+        "rate": 0.8558,
+        "date": "2026-09-15",
         "provider": "ECB"
       },
       "HUF": {
-        "rate": 364.45,
-        "date": "2026-09-11",
+        "rate": 366.03,
+        "date": "2026-09-15",
         "provider": "ECB"
       },
       "PLN": {
-        "rate": 4.325,
-        "date": "2026-09-11",
+        "rate": 4.34,
+        "date": "2026-09-15",
         "provider": "ECB"
       },
       "RON": {
-        "rate": 5.2547,
-        "date": "2026-09-11",
+        "rate": 5.2627,
+        "date": "2026-09-15",
         "provider": "ECB"
       },
       "SEK": {
-        "rate": 11.2373,
-        "date": "2026-09-11",
+        "rate": 11.274,
+        "date": "2026-09-15",
         "provider": "ECB"
       },
       "CHF": {
-        "rate": 0.9451,
-        "date": "2026-09-11",
+        "rate": 0.9441,
+        "date": "2026-09-15",
         "provider": "ECB"
       },
       "ISK": {
-        "rate": 139.6,
-        "date": "2026-09-11",
+        "rate": 140.0,
+        "date": "2026-09-15",
         "provider": "ECB"
       },
       "NOK": {
-        "rate": 10.7805,
-        "date": "2026-09-11",
+        "rate": 10.785,
+        "date": "2026-09-15",
         "provider": "ECB"
       },
       "TRY": {
-        "rate": 56.3329,
-        "date": "2026-09-11",
+        "rate": 56.1255,
+        "date": "2026-09-15",
         "provider": "ECB"
       },
       "AUD": {
-        "rate": 1.6161,
-        "date": "2026-09-11",
+        "rate": 1.6194,
+        "date": "2026-09-15",
         "provider": "ECB"
       },
       "BRL": {
-        "rate": 5.9244,
-        "date": "2026-09-11",
+        "rate": 5.944,
+        "date": "2026-09-15",
         "provider": "ECB"
       },
       "CAD": {
-        "rate": 1.6064,
-        "date": "2026-09-11",
+        "rate": 1.6062,
+        "date": "2026-09-15",
         "provider": "ECB"
       },
       "CNY": {
-        "rate": 7.7762,
-        "date": "2026-09-11",
+        "rate": 7.7444,
+        "date": "2026-09-15",
         "provider": "ECB"
       },
       "HKD": {
-        "rate": 9.0904,
-        "date": "2026-09-11",
+        "rate": 9.0518,
+        "date": "2026-09-15",
         "provider": "ECB"
       },
       "IDR": {
-        "rate": 20404.99,
-        "date": "2026-09-11",
+        "rate": 20420.4,
+        "date": "2026-09-15",
         "provider": "ECB"
       },
       "ILS": {
-        "rate": 3.5301,
-        "date": "2026-09-11",
+        "rate": 3.5093,
+        "date": "2026-09-15",
         "provider": "ECB"
       },
       "INR": {
-        "rate": 110.7675,
-        "date": "2026-09-11",
+        "rate": 110.7285,
+        "date": "2026-09-15",
         "provider": "ECB"
       },
       "KRW": {
-        "rate": 1556.56,
-        "date": "2026-09-11",
+        "rate": 1568.32,
+        "date": "2026-09-15",
         "provider": "ECB"
       },
       "MXN": {
-        "rate": 19.6798,
-        "date": "2026-09-11",
+        "rate": 19.7972,
+        "date": "2026-09-15",
         "provider": "ECB"
       },
       "MYR": {
-        "rate": 4.7185,
-        "date": "2026-09-11",
+        "rate": 4.716,
+        "date": "2026-09-15",
         "provider": "ECB"
       },
       "NZD": {
-        "rate": 1.9914,
-        "date": "2026-09-11",
+        "rate": 2.0042,
+        "date": "2026-09-15",
         "provider": "ECB"
       },
       "PHP": {
-        "rate": 72.6,
-        "date": "2026-09-11",
+        "rate": 72.467,
+        "date": "2026-09-15",
         "provider": "ECB"
       },
       "SGD": {
-        "rate": 1.4697,
-        "date": "2026-09-11",
+        "rate": 1.4683,
+        "date": "2026-09-15",
         "provider": "ECB"
       },
       "THB": {
-        "rate": 38.329,
-        "date": "2026-09-11",
+        "rate": 38.419,
+        "date": "2026-09-15",
         "provider": "ECB"
       },
       "ZAR": {
-        "rate": 18.7312,
-        "date": "2026-09-11",
+        "rate": 18.7777,
+        "date": "2026-09-15",
         "provider": "ECB"
       }
     }
@@ -6359,8 +6359,8 @@
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -6385,36 +6385,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 250000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
-          "end": 540,
-          "price": 380000
+          "end": 480,
+          "price": 350000
         },
         {
           "days": 127,
-          "start": 540,
+          "start": 480,
           "end": 1380,
-          "price": 430000
+          "price": 400000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 250000
+          "price": 260000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -6439,12 +6439,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -6469,12 +6469,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 400000
+          "price": 360000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -6499,12 +6499,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -6613,36 +6613,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 280000
+          "price": 270000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 280000
+          "price": 270000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1380,
-          "price": 430000
+          "price": 410000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 280000
+          "price": 270000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -6667,12 +6667,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 350000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -6757,7 +6757,7 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
@@ -6769,7 +6769,7 @@
           "days": 127,
           "start": 480,
           "end": 1380,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
@@ -6779,8 +6779,8 @@
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -6805,12 +6805,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 420000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -6889,36 +6889,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 290000
+          "price": 280000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 290000
+          "price": 280000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1380,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 290000
+          "price": 280000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -6943,12 +6943,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -7069,12 +7069,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -7099,12 +7099,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 400000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -7129,12 +7129,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 360000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -7159,19 +7159,19 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 280000
+          "price": 290000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 280000
+          "price": 290000
         },
         {
           "days": 127,
@@ -7181,8 +7181,8 @@
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -7207,36 +7207,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 290000
+          "price": 270000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 540,
-          "price": 290000
+          "price": 270000
         },
         {
           "days": 127,
           "start": 540,
           "end": 1260,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1260,
           "end": 1440,
-          "price": 290000
+          "price": 270000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -7261,12 +7261,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 380000
+          "price": 290000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -7339,36 +7339,30 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 310000
+          "price": 290000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 310000
+          "price": 290000
         },
         {
           "days": 127,
           "start": 480,
-          "end": 1200,
-          "price": 430000
-        },
-        {
-          "days": 127,
-          "start": 1200,
           "end": 1440,
-          "price": 380000
+          "price": 400000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -7393,12 +7387,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -7423,48 +7417,48 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 340000
+          "price": 310000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 340000
+          "price": 310000
         },
         {
           "days": 127,
           "start": 480,
           "end": 720,
-          "price": 400000
+          "price": 360000
         },
         {
           "days": 127,
           "start": 720,
           "end": 1080,
-          "price": 470000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1080,
           "end": 1320,
-          "price": 400000
+          "price": 360000
         },
         {
           "days": 127,
           "start": 1320,
           "end": 1440,
-          "price": 340000
+          "price": 310000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -7489,36 +7483,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 240000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 240000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1380,
-          "price": 430000
+          "price": 400000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 240000
+          "price": 260000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -7543,48 +7537,48 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 360000
+          "price": 320000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 360000
+          "price": 320000
         },
         {
           "days": 127,
           "start": 480,
           "end": 720,
-          "price": 430000
+          "price": 390000
         },
         {
           "days": 127,
           "start": 720,
           "end": 1020,
-          "price": 480000
+          "price": 430000
         },
         {
           "days": 127,
           "start": 1020,
           "end": 1380,
-          "price": 400000
+          "price": 360000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 360000
+          "price": 320000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -7609,36 +7603,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 320000
+          "price": 310000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 320000
+          "price": 310000
         },
         {
           "days": 127,
           "start": 480,
-          "end": 1320,
-          "price": 430000
+          "end": 1380,
+          "price": 350000
         },
         {
           "days": 127,
-          "start": 1320,
+          "start": 1380,
           "end": 1440,
-          "price": 320000
+          "price": 310000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -7663,36 +7657,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 330000
+          "price": 300000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 540,
-          "price": 330000
+          "price": 300000
         },
         {
           "days": 127,
           "start": 540,
           "end": 1260,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1260,
           "end": 1440,
-          "price": 330000
+          "price": 300000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -7717,12 +7711,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -7747,12 +7741,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -7777,12 +7771,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -7807,12 +7801,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 310000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -7891,30 +7885,30 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 430000
+          "price": 350000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 280000
+          "price": 290000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1440,
-          "price": 430000
+          "price": 350000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -7939,36 +7933,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 320000
+          "price": 300000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 320000
+          "price": 300000
         },
         {
           "days": 127,
           "start": 480,
-          "end": 1260,
-          "price": 430000
+          "end": 1380,
+          "price": 370000
         },
         {
           "days": 127,
-          "start": 1260,
+          "start": 1380,
           "end": 1440,
-          "price": 320000
+          "price": 300000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -7993,12 +7987,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 420000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -8023,36 +8017,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 330000
+          "price": 320000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 330000
+          "price": 320000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1320,
-          "price": 430000
+          "price": 410000
         },
         {
           "days": 127,
           "start": 1320,
           "end": 1440,
-          "price": 330000
+          "price": 320000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -8077,30 +8071,30 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 310000
+          "price": 280000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 1320,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1320,
           "end": 1440,
-          "price": 310000
+          "price": 280000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -8125,36 +8119,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 250000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 250000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1320,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1320,
           "end": 1440,
-          "price": 250000
+          "price": 260000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -8179,36 +8173,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 380000
+          "price": 350000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 540,
-          "price": 380000
+          "price": 350000
         },
         {
           "days": 127,
           "start": 540,
           "end": 1260,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1260,
           "end": 1440,
-          "price": 380000
+          "price": 350000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -8233,36 +8227,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 260000
+          "price": 270000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 260000
+          "price": 270000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1200,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1200,
           "end": 1440,
-          "price": 370000
+          "price": 350000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -8309,8 +8303,8 @@
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -8365,36 +8359,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 380000
+          "price": 340000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 660,
-          "price": 380000
+          "price": 340000
         },
         {
           "days": 127,
           "start": 660,
           "end": 1200,
-          "price": 440000
+          "price": 400000
         },
         {
           "days": 127,
           "start": 1200,
           "end": 1440,
-          "price": 380000
+          "price": 340000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -8419,12 +8413,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 400000
+          "price": 360000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -8533,12 +8527,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 400000
+          "price": 360000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -8610,31 +8604,13 @@
         {
           "days": 127,
           "start": 0,
-          "end": 240,
-          "price": 380000
-        },
-        {
-          "days": 127,
-          "start": 0,
           "end": 1440,
-          "price": 410000
-        },
-        {
-          "days": 127,
-          "start": 240,
-          "end": 1380,
-          "price": 430000
-        },
-        {
-          "days": 127,
-          "start": 1380,
-          "end": 1440,
-          "price": 380000
+          "price": 350000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -8659,12 +8635,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 420000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -8689,12 +8665,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -8719,36 +8695,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 310000
+          "price": 300000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 540,
-          "price": 310000
+          "price": 300000
         },
         {
           "days": 127,
           "start": 540,
           "end": 1380,
-          "price": 430000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 310000
+          "price": 300000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -8773,36 +8749,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 250000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 250000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1200,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1200,
           "end": 1440,
-          "price": 360000
+          "price": 340000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -8827,36 +8803,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 320000
+          "price": 280000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 320000
+          "price": 280000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1260,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1260,
           "end": 1440,
-          "price": 320000
+          "price": 280000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -8929,30 +8905,30 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 310000
+          "price": 300000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 310000
+          "price": 300000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1440,
-          "price": 430000
+          "price": 420000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -8977,12 +8953,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 350000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -9103,12 +9079,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -9133,36 +9109,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 240000
+          "price": 270000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 240000
+          "price": 270000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1200,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1200,
           "end": 1440,
-          "price": 310000
+          "price": 270000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -9187,12 +9163,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 340000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -9217,12 +9193,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -9247,12 +9223,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 310000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -9277,12 +9253,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 410000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -9337,36 +9313,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 240000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 540,
-          "price": 380000
+          "price": 350000
         },
         {
           "days": 127,
           "start": 540,
           "end": 1380,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 240000
+          "price": 260000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -9391,12 +9367,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 390000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -9421,12 +9397,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 390000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -9481,12 +9457,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 390000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -9517,7 +9493,7 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
@@ -9529,7 +9505,7 @@
           "days": 127,
           "start": 480,
           "end": 1380,
-          "price": 430000
+          "price": 370000
         },
         {
           "days": 127,
@@ -9539,8 +9515,8 @@
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -9565,36 +9541,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 270000
+          "price": 280000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 270000
+          "price": 280000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1380,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 270000
+          "price": 280000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -9673,30 +9649,30 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 280000
+          "price": 290000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 280000
+          "price": 290000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1440,
-          "price": 430000
+          "price": 420000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -9811,13 +9787,13 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 1380,
-          "price": 430000
+          "price": 360000
         },
         {
           "days": 127,
@@ -9827,8 +9803,8 @@
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -9853,13 +9829,13 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 320000
+          "price": 300000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
@@ -9871,18 +9847,18 @@
           "days": 127,
           "start": 480,
           "end": 1320,
-          "price": 430000
+          "price": 390000
         },
         {
           "days": 127,
           "start": 1320,
           "end": 1440,
-          "price": 320000
+          "price": 300000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -9907,36 +9883,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 250000
+          "price": 220000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 460000
+          "price": 410000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 250000
+          "price": 220000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1200,
-          "price": 450000
+          "price": 400000
         },
         {
           "days": 127,
           "start": 1200,
           "end": 1440,
-          "price": 380000
+          "price": 340000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -10045,36 +10021,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 310000
+          "price": 290000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 540,
-          "price": 310000
+          "price": 290000
         },
         {
           "days": 127,
           "start": 540,
           "end": 1380,
-          "price": 430000
+          "price": 410000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 310000
+          "price": 290000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -10153,36 +10129,30 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 290000
+          "price": 280000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 290000
+          "price": 280000
         },
         {
           "days": 127,
           "start": 480,
-          "end": 1200,
-          "price": 430000
-        },
-        {
-          "days": 127,
-          "start": 1200,
           "end": 1440,
-          "price": 380000
+          "price": 410000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -10207,12 +10177,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -10237,12 +10207,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -10267,12 +10237,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 310000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -10297,12 +10267,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 310000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -10327,12 +10297,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 360000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -10435,12 +10405,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 390000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -10465,36 +10435,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 250000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 250000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1380,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 250000
+          "price": 260000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -10519,12 +10489,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -10549,12 +10519,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -10579,12 +10549,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -10639,36 +10609,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 390000
+          "price": 350000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 600,
-          "price": 390000
+          "price": 350000
         },
         {
           "days": 127,
           "start": 600,
           "end": 1080,
-          "price": 450000
+          "price": 400000
         },
         {
           "days": 127,
           "start": 1080,
           "end": 1440,
-          "price": 390000
+          "price": 350000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -10692,37 +10662,13 @@
         {
           "days": 127,
           "start": 0,
-          "end": 240,
-          "price": 310000
-        },
-        {
-          "days": 127,
-          "start": 0,
-          "end": 1440,
-          "price": 410000
-        },
-        {
-          "days": 127,
-          "start": 240,
-          "end": 540,
-          "price": 310000
-        },
-        {
-          "days": 127,
-          "start": 540,
-          "end": 1320,
-          "price": 380000
-        },
-        {
-          "days": 127,
-          "start": 1320,
           "end": 1440,
           "price": 310000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -10777,36 +10723,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 360000
+          "price": 340000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 360000
+          "price": 340000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1380,
-          "price": 430000
+          "price": 400000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 360000
+          "price": 340000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -10831,36 +10777,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 300000
+          "price": 290000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 540,
-          "price": 300000
+          "price": 290000
         },
         {
           "days": 127,
           "start": 540,
           "end": 1380,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 300000
+          "price": 290000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -10885,12 +10831,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 350000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -10915,12 +10861,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 400000
+          "price": 360000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -10945,19 +10891,19 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 270000
+          "price": 280000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 540,
-          "price": 270000
+          "price": 280000
         },
         {
           "days": 127,
@@ -10969,12 +10915,12 @@
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 270000
+          "price": 280000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -11053,12 +10999,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 340000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -11083,36 +11029,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 250000
+          "price": 220000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 400000
+          "price": 360000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 250000
+          "price": 220000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1320,
-          "price": 400000
+          "price": 360000
         },
         {
           "days": 127,
           "start": 1320,
           "end": 1440,
-          "price": 250000
+          "price": 220000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -11137,36 +11083,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 270000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 270000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1320,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1320,
           "end": 1440,
-          "price": 270000
+          "price": 260000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -11191,36 +11137,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 310000
+          "price": 290000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 600,
-          "price": 310000
+          "price": 290000
         },
         {
           "days": 127,
           "start": 600,
           "end": 1320,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1320,
           "end": 1440,
-          "price": 310000
+          "price": 290000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -11245,30 +11191,30 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 250000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 250000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1440,
-          "price": 430000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -11323,12 +11269,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 420000
+          "price": 320000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -11353,12 +11299,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -11383,12 +11329,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 420000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -11413,12 +11359,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 360000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -11443,30 +11389,30 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 270000
+          "price": 290000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 270000
+          "price": 290000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1440,
-          "price": 430000
+          "price": 420000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -11491,12 +11437,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -11521,36 +11467,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 290000
+          "price": 280000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 290000
+          "price": 280000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1380,
-          "price": 430000
+          "price": 400000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 290000
+          "price": 280000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -11575,12 +11521,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -11665,12 +11611,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -11695,12 +11641,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -11725,12 +11671,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -11761,7 +11707,7 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
@@ -11773,12 +11719,12 @@
           "days": 127,
           "start": 480,
           "end": 1440,
-          "price": 430000
+          "price": 420000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -11809,7 +11755,7 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
@@ -11831,8 +11777,8 @@
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -11857,12 +11803,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 460000
+          "price": 410000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -11887,12 +11833,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -11917,12 +11863,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -11947,12 +11893,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -11977,42 +11923,42 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 340000
+          "price": 310000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 390000
         },
         {
           "days": 127,
           "start": 240,
           "end": 540,
-          "price": 420000
+          "price": 380000
         },
         {
           "days": 127,
           "start": 540,
           "end": 1080,
-          "price": 500000
+          "price": 450000
         },
         {
           "days": 127,
           "start": 1080,
           "end": 1320,
-          "price": 420000
+          "price": 380000
         },
         {
           "days": 127,
           "start": 1320,
           "end": 1440,
-          "price": 340000
+          "price": 310000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -12037,42 +11983,42 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 340000
+          "price": 310000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 390000
         },
         {
           "days": 127,
           "start": 240,
           "end": 540,
-          "price": 420000
+          "price": 380000
         },
         {
           "days": 127,
           "start": 540,
           "end": 1080,
-          "price": 500000
+          "price": 450000
         },
         {
           "days": 127,
           "start": 1080,
           "end": 1320,
-          "price": 420000
+          "price": 380000
         },
         {
           "days": 127,
           "start": 1320,
           "end": 1440,
-          "price": 340000
+          "price": 310000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -12097,12 +12043,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -12127,36 +12073,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 360000
+          "price": 320000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 360000
+          "price": 320000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1380,
-          "price": 430000
+          "price": 390000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 360000
+          "price": 320000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -12181,36 +12127,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 260000
+          "price": 280000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 310000
+          "price": 280000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1380,
-          "price": 430000
+          "price": 390000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 260000
+          "price": 280000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -12235,36 +12181,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 270000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 270000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1380,
-          "price": 430000
+          "price": 400000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 270000
+          "price": 260000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -12289,12 +12235,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -12319,36 +12265,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 280000
+          "price": 270000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 540,
-          "price": 280000
+          "price": 270000
         },
         {
           "days": 127,
           "start": 540,
           "end": 1380,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 280000
+          "price": 270000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -12373,36 +12319,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 380000
+          "price": 340000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 600,
-          "price": 380000
+          "price": 340000
         },
         {
           "days": 127,
           "start": 600,
           "end": 960,
-          "price": 470000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 960,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -12535,12 +12481,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -12565,12 +12511,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 350000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -12625,36 +12571,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 260000
+          "price": 270000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 540,
-          "price": 260000
+          "price": 270000
         },
         {
           "days": 127,
           "start": 540,
           "end": 1320,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1320,
           "end": 1440,
-          "price": 260000
+          "price": 270000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -12678,13 +12624,31 @@
         {
           "days": 127,
           "start": 0,
+          "end": 240,
+          "price": 380000
+        },
+        {
+          "days": 127,
+          "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 370000
+        },
+        {
+          "days": 127,
+          "start": 240,
+          "end": 1380,
+          "price": 420000
+        },
+        {
+          "days": 127,
+          "start": 1380,
+          "end": 1440,
+          "price": 380000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-03T02:48:37.431Z",
-      "lastSuccessfulAt": "2026-09-03T02:48:37.431Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -12709,12 +12673,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -12745,7 +12709,7 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
@@ -12757,7 +12721,7 @@
           "days": 127,
           "start": 480,
           "end": 1320,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
@@ -12767,8 +12731,8 @@
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -12793,12 +12757,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -12877,36 +12841,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 260000
+          "price": 230000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 390000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 260000
+          "price": 230000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1380,
-          "price": 490000
+          "price": 440000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 260000
+          "price": 230000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -12931,36 +12895,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 310000
+          "price": 290000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 310000
+          "price": 290000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1380,
-          "price": 430000
+          "price": 380000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 310000
+          "price": 290000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -13039,30 +13003,30 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 260000
+          "price": 270000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 260000
+          "price": 270000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1440,
-          "price": 430000
+          "price": 420000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -13086,37 +13050,25 @@
         {
           "days": 127,
           "start": 0,
-          "end": 240,
-          "price": 360000
-        },
-        {
-          "days": 127,
-          "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
-          "end": 540,
-          "price": 310000
+          "end": 480,
+          "price": 290000
         },
         {
           "days": 127,
-          "start": 540,
-          "end": 1380,
-          "price": 430000
-        },
-        {
-          "days": 127,
-          "start": 1380,
+          "start": 480,
           "end": 1440,
-          "price": 360000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-03T02:48:37.431Z",
-      "lastSuccessfulAt": "2026-09-03T02:48:37.431Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -13141,12 +13093,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 400000
+          "price": 350000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -13171,30 +13123,30 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 240000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 240000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1440,
-          "price": 430000
+          "price": 410000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -13219,48 +13171,48 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 320000
+          "price": 290000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 320000
+          "price": 290000
         },
         {
           "days": 127,
           "start": 480,
           "end": 720,
-          "price": 400000
+          "price": 360000
         },
         {
           "days": 127,
           "start": 720,
           "end": 1080,
-          "price": 430000
+          "price": 390000
         },
         {
           "days": 127,
           "start": 1080,
           "end": 1320,
-          "price": 400000
+          "price": 360000
         },
         {
           "days": 127,
           "start": 1320,
           "end": 1440,
-          "price": 320000
+          "price": 290000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -13285,30 +13237,30 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 240000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 240000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1440,
-          "price": 430000
+          "price": 420000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -13333,12 +13285,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 420000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -13363,36 +13315,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 340000
+          "price": 310000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 400000
+          "price": 360000
         },
         {
           "days": 127,
           "start": 240,
           "end": 540,
-          "price": 340000
+          "price": 310000
         },
         {
           "days": 127,
           "start": 540,
           "end": 1320,
-          "price": 400000
+          "price": 360000
         },
         {
           "days": 127,
           "start": 1320,
           "end": 1440,
-          "price": 340000
+          "price": 310000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -13447,36 +13399,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 300000
+          "price": 290000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 300000
+          "price": 290000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1380,
-          "price": 430000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 300000
+          "price": 290000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -13501,36 +13453,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 280000
+          "price": 270000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 280000
+          "price": 270000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1320,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1320,
           "end": 1440,
-          "price": 280000
+          "price": 270000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -13555,12 +13507,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 360000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -13639,12 +13591,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 350000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -13783,36 +13735,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 250000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 250000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1320,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1320,
           "end": 1440,
-          "price": 250000
+          "price": 260000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -13837,12 +13789,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -13867,48 +13819,48 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 330000
+          "price": 300000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 330000
+          "price": 300000
         },
         {
           "days": 127,
           "start": 480,
           "end": 720,
-          "price": 420000
+          "price": 380000
         },
         {
           "days": 127,
           "start": 720,
           "end": 1080,
-          "price": 490000
+          "price": 440000
         },
         {
           "days": 127,
           "start": 1080,
           "end": 1320,
-          "price": 420000
+          "price": 380000
         },
         {
           "days": 127,
           "start": 1320,
           "end": 1440,
-          "price": 330000
+          "price": 300000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -13933,36 +13885,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 290000
+          "price": 280000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 290000
+          "price": 280000
         },
         {
           "days": 127,
           "start": 480,
-          "end": 1380,
-          "price": 430000
+          "end": 1200,
+          "price": 420000
         },
         {
           "days": 127,
-          "start": 1380,
+          "start": 1200,
           "end": 1440,
-          "price": 290000
+          "price": 380000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -13987,12 +13939,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -14047,36 +13999,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 270000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 270000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1380,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 270000
+          "price": 260000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -14101,36 +14053,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 300000
+          "price": 290000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 540,
-          "price": 300000
+          "price": 290000
         },
         {
           "days": 127,
           "start": 540,
           "end": 1380,
-          "price": 430000
+          "price": 360000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 300000
+          "price": 290000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -14209,42 +14161,42 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 350000
+          "price": 320000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 600,
-          "price": 350000
+          "price": 320000
         },
         {
           "days": 127,
           "start": 600,
           "end": 1020,
-          "price": 470000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1020,
           "end": 1380,
-          "price": 420000
+          "price": 380000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 350000
+          "price": 320000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -14299,42 +14251,42 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 380000
+          "price": 340000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 540,
-          "price": 380000
+          "price": 340000
         },
         {
           "days": 127,
           "start": 540,
           "end": 900,
-          "price": 460000
+          "price": 410000
         },
         {
           "days": 127,
           "start": 900,
           "end": 1260,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 1260,
           "end": 1440,
-          "price": 380000
+          "price": 340000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -14359,36 +14311,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 290000
+          "price": 280000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 540,
-          "price": 290000
+          "price": 280000
         },
         {
           "days": 127,
           "start": 540,
           "end": 1380,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 290000
+          "price": 280000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -14413,12 +14365,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -14443,36 +14395,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 350000
+          "price": 320000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
-          "end": 600,
-          "price": 350000
+          "end": 540,
+          "price": 320000
         },
         {
           "days": 127,
-          "start": 600,
+          "start": 540,
           "end": 1200,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1200,
           "end": 1440,
-          "price": 350000
+          "price": 320000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -14497,12 +14449,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -14527,30 +14479,30 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 250000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 250000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1440,
-          "price": 430000
+          "price": 420000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -14581,13 +14533,7 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
-        },
-        {
-          "days": 127,
-          "start": 240,
-          "end": 1380,
-          "price": 430000
+          "price": 370000
         },
         {
           "days": 127,
@@ -14597,8 +14543,8 @@
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -14623,12 +14569,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -14653,12 +14599,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 400000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -14725,48 +14671,48 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 360000
+          "price": 320000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 360000
+          "price": 320000
         },
         {
           "days": 127,
           "start": 480,
           "end": 720,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 720,
           "end": 1020,
-          "price": 470000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1020,
           "end": 1380,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 360000
+          "price": 320000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -14791,30 +14737,30 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 280000
+          "price": 290000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 280000
+          "price": 290000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1440,
-          "price": 430000
+          "price": 420000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -14839,12 +14785,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 320000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -14869,30 +14815,30 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 430000
+          "price": 380000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 540,
-          "price": 310000
+          "price": 290000
         },
         {
           "days": 127,
           "start": 540,
           "end": 1440,
-          "price": 430000
+          "price": 380000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -14917,36 +14863,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 340000
+          "price": 320000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 540,
-          "price": 340000
+          "price": 320000
         },
         {
           "days": 127,
           "start": 540,
           "end": 1200,
-          "price": 430000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 1200,
           "end": 1440,
-          "price": 340000
+          "price": 320000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -14971,36 +14917,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 350000
+          "price": 340000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 600,
-          "price": 350000
+          "price": 340000
         },
         {
           "days": 127,
           "start": 600,
           "end": 1200,
-          "price": 430000
+          "price": 390000
         },
         {
           "days": 127,
           "start": 1200,
           "end": 1440,
-          "price": 350000
+          "price": 340000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -15025,36 +14971,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 290000
+          "price": 280000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 290000
+          "price": 280000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1380,
-          "price": 430000
+          "price": 390000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 290000
+          "price": 280000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -15079,36 +15025,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 290000
+          "price": 280000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 540,
-          "price": 290000
+          "price": 280000
         },
         {
           "days": 127,
           "start": 540,
           "end": 1320,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1320,
           "end": 1440,
-          "price": 290000
+          "price": 280000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -15133,42 +15079,42 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 390000
+          "price": 350000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 320000
+          "price": 290000
         },
         {
           "days": 127,
           "start": 480,
           "end": 720,
-          "price": 390000
+          "price": 350000
         },
         {
           "days": 127,
           "start": 720,
           "end": 1200,
-          "price": 480000
+          "price": 430000
         },
         {
           "days": 127,
           "start": 1200,
           "end": 1440,
-          "price": 390000
+          "price": 350000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -15193,12 +15139,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 410000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -15223,36 +15169,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 370000
+          "price": 350000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 370000
+          "price": 350000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1260,
-          "price": 430000
+          "price": 410000
         },
         {
           "days": 127,
           "start": 1260,
           "end": 1440,
-          "price": 370000
+          "price": 350000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -15277,30 +15223,30 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 250000
+          "price": 280000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 300000
+          "price": 280000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1440,
-          "price": 430000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -15355,12 +15301,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -15391,7 +15337,7 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
@@ -15403,12 +15349,12 @@
           "days": 127,
           "start": 480,
           "end": 1440,
-          "price": 430000
+          "price": 400000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -15433,12 +15379,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 330000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -15463,12 +15409,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -15493,36 +15439,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 380000
+          "price": 340000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 540,
-          "price": 380000
+          "price": 340000
         },
         {
           "days": 127,
           "start": 540,
           "end": 1260,
-          "price": 430000
+          "price": 390000
         },
         {
           "days": 127,
           "start": 1260,
           "end": 1440,
-          "price": 380000
+          "price": 340000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -15607,36 +15553,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 250000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 540,
-          "price": 250000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 540,
           "end": 1380,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 250000
+          "price": 260000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -15667,7 +15613,7 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
@@ -15679,12 +15625,12 @@
           "days": 127,
           "start": 540,
           "end": 1440,
-          "price": 430000
+          "price": 420000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -15757,42 +15703,42 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 370000
+          "price": 330000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 370000
+          "price": 330000
         },
         {
           "days": 127,
           "start": 480,
           "end": 720,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 720,
           "end": 1260,
-          "price": 440000
+          "price": 400000
         },
         {
           "days": 127,
           "start": 1260,
           "end": 1440,
-          "price": 370000
+          "price": 330000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -15823,7 +15769,7 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
@@ -15834,19 +15780,13 @@
         {
           "days": 127,
           "start": 480,
-          "end": 1380,
-          "price": 430000
-        },
-        {
-          "days": 127,
-          "start": 1380,
           "end": 1440,
-          "price": 280000
+          "price": 420000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -15949,12 +15889,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 390000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -16039,7 +15979,7 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
@@ -16051,7 +15991,7 @@
           "days": 127,
           "start": 480,
           "end": 1380,
-          "price": 430000
+          "price": 380000
         },
         {
           "days": 127,
@@ -16061,8 +16001,8 @@
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -16117,12 +16057,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 340000
+          "price": 290000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -16147,42 +16087,42 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 300000
+          "price": 270000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 380000
+          "price": 340000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1140,
-          "price": 470000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1140,
           "end": 1380,
-          "price": 380000
+          "price": 340000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 300000
+          "price": 270000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -16207,12 +16147,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -16237,12 +16177,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 350000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -16297,12 +16237,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 300000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -16357,12 +16297,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 350000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -16441,30 +16381,30 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 330000
+          "price": 300000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 400000
+          "price": 360000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 330000
+          "price": 300000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1440,
-          "price": 400000
+          "price": 360000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -16489,12 +16429,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 400000
+          "price": 350000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -16519,12 +16459,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 390000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -16579,12 +16519,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 400000
+          "price": 360000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -16609,12 +16549,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -16639,12 +16579,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -16669,12 +16609,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -16699,12 +16639,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 400000
+          "price": 360000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -16729,12 +16669,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -16759,12 +16699,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -16819,12 +16759,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 400000
+          "price": 320000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -16849,36 +16789,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 280000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 280000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1320,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1320,
           "end": 1440,
-          "price": 280000
+          "price": 260000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -16903,12 +16843,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 300000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -16961,8 +16901,8 @@
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -17016,31 +16956,13 @@
         {
           "days": 127,
           "start": 0,
-          "end": 240,
-          "price": 370000
-        },
-        {
-          "days": 127,
-          "start": 0,
-          "end": 1440,
-          "price": 410000
-        },
-        {
-          "days": 127,
-          "start": 240,
-          "end": 1320,
-          "price": 430000
-        },
-        {
-          "days": 127,
-          "start": 1320,
           "end": 1440,
           "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -17065,12 +16987,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 360000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -17125,12 +17047,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -17155,12 +17077,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 420000
+          "price": 310000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -17185,30 +17107,30 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 310000
+          "price": 290000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 1380,
-          "price": 430000
+          "price": 400000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 310000
+          "price": 290000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -17287,12 +17209,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -17317,12 +17239,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -17347,12 +17269,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -17376,31 +17298,13 @@
         {
           "days": 127,
           "start": 0,
-          "end": 240,
-          "price": 390000
-        },
-        {
-          "days": 127,
-          "start": 0,
           "end": 1440,
-          "price": 410000
-        },
-        {
-          "days": 127,
-          "start": 240,
-          "end": 1380,
-          "price": 430000
-        },
-        {
-          "days": 127,
-          "start": 1380,
-          "end": 1440,
-          "price": 390000
+          "price": 340000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -17455,30 +17359,30 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 330000
+          "price": 320000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 1380,
-          "price": 430000
+          "price": 350000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 330000
+          "price": 320000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -17503,12 +17407,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 350000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -17533,12 +17437,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 350000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -17563,12 +17467,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -17599,7 +17503,7 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
@@ -17611,7 +17515,7 @@
           "days": 127,
           "start": 480,
           "end": 1320,
-          "price": 430000
+          "price": 410000
         },
         {
           "days": 127,
@@ -17621,8 +17525,8 @@
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -17646,31 +17550,13 @@
         {
           "days": 127,
           "start": 0,
-          "end": 240,
-          "price": 430000
-        },
-        {
-          "days": 127,
-          "start": 0,
           "end": 1440,
-          "price": 410000
-        },
-        {
-          "days": 127,
-          "start": 240,
-          "end": 480,
-          "price": 380000
-        },
-        {
-          "days": 127,
-          "start": 480,
-          "end": 1440,
-          "price": 430000
+          "price": 350000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -17695,12 +17581,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -17725,12 +17611,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 420000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -17845,7 +17731,7 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
@@ -17857,7 +17743,7 @@
           "days": 127,
           "start": 540,
           "end": 1380,
-          "price": 430000
+          "price": 400000
         },
         {
           "days": 127,
@@ -17867,8 +17753,8 @@
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -17923,36 +17809,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 310000
+          "price": 280000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 600,
-          "price": 310000
+          "price": 280000
         },
         {
           "days": 127,
           "start": 600,
           "end": 1320,
-          "price": 430000
+          "price": 390000
         },
         {
           "days": 127,
           "start": 1320,
           "end": 1440,
-          "price": 310000
+          "price": 280000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-03T02:48:37.431Z",
-      "lastSuccessfulAt": "2026-09-03T02:48:37.431Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -18085,36 +17971,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 250000
+          "price": 270000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 310000
+          "price": 270000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1380,
-          "price": 430000
+          "price": 400000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 250000
+          "price": 270000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -18139,12 +18025,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 400000
+          "price": 360000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -18169,12 +18055,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 340000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -18253,12 +18139,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 310000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -18283,12 +18169,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 360000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -18319,7 +18205,7 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
@@ -18331,7 +18217,7 @@
           "days": 127,
           "start": 480,
           "end": 1380,
-          "price": 430000
+          "price": 400000
         },
         {
           "days": 127,
@@ -18341,8 +18227,8 @@
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -18367,30 +18253,30 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 380000
+          "price": 340000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 400000
+          "price": 360000
         },
         {
           "days": 127,
           "start": 240,
           "end": 1260,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 1260,
           "end": 1440,
-          "price": 380000
+          "price": 340000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -18493,36 +18379,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 250000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 310000
+          "price": 300000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1380,
-          "price": 430000
+          "price": 410000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 250000
+          "price": 260000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -18547,12 +18433,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -18577,36 +18463,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 240000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 240000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1200,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1200,
           "end": 1440,
-          "price": 380000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -18631,12 +18517,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 360000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -18715,42 +18601,42 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 390000
+          "price": 350000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 660,
-          "price": 390000
+          "price": 350000
         },
         {
           "days": 127,
           "start": 660,
           "end": 900,
-          "price": 480000
+          "price": 430000
         },
         {
           "days": 127,
           "start": 900,
           "end": 1200,
-          "price": 430000
+          "price": 390000
         },
         {
           "days": 127,
           "start": 1200,
           "end": 1440,
-          "price": 390000
+          "price": 350000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -18775,12 +18661,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -18805,12 +18691,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -18835,12 +18721,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 400000
+          "price": 360000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -18865,12 +18751,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 330000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -18895,36 +18781,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 380000
+          "price": 340000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 540,
-          "price": 380000
+          "price": 340000
         },
         {
           "days": 127,
           "start": 540,
           "end": 1080,
-          "price": 470000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1080,
           "end": 1440,
-          "price": 380000
+          "price": 340000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -18949,36 +18835,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 280000
+          "price": 290000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 280000
+          "price": 290000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1380,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 280000
+          "price": 290000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -19003,36 +18889,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 270000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 270000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1380,
-          "price": 430000
+          "price": 350000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 270000
+          "price": 260000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -19063,7 +18949,7 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
@@ -19075,7 +18961,7 @@
           "days": 127,
           "start": 480,
           "end": 1380,
-          "price": 430000
+          "price": 350000
         },
         {
           "days": 127,
@@ -19085,8 +18971,8 @@
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -19111,36 +18997,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 280000
+          "price": 270000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 540,
-          "price": 280000
+          "price": 270000
         },
         {
           "days": 127,
           "start": 540,
           "end": 1320,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1320,
           "end": 1440,
-          "price": 280000
+          "price": 270000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -19164,37 +19050,13 @@
         {
           "days": 127,
           "start": 0,
-          "end": 240,
-          "price": 340000
-        },
-        {
-          "days": 127,
-          "start": 0,
           "end": 1440,
-          "price": 410000
-        },
-        {
-          "days": 127,
-          "start": 240,
-          "end": 540,
-          "price": 340000
-        },
-        {
-          "days": 127,
-          "start": 540,
-          "end": 1320,
-          "price": 430000
-        },
-        {
-          "days": 127,
-          "start": 1320,
-          "end": 1440,
-          "price": 340000
+          "price": 350000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -19219,36 +19081,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 240000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 540,
-          "price": 300000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 540,
           "end": 1380,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 240000
+          "price": 260000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -19273,12 +19135,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -19303,12 +19165,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 380000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -19333,12 +19195,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 390000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -19363,36 +19225,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 380000
+          "price": 340000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 540,
-          "price": 380000
+          "price": 340000
         },
         {
           "days": 127,
           "start": 540,
           "end": 1260,
-          "price": 430000
+          "price": 390000
         },
         {
           "days": 127,
           "start": 1260,
           "end": 1440,
-          "price": 380000
+          "price": 340000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -19417,42 +19279,42 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 290000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 480,
-          "price": 290000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 480,
           "end": 1080,
-          "price": 420000
+          "price": 380000
         },
         {
           "days": 127,
           "start": 1080,
           "end": 1320,
-          "price": 380000
+          "price": 340000
         },
         {
           "days": 127,
           "start": 1320,
           "end": 1440,
-          "price": 290000
+          "price": 260000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -19621,12 +19483,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -19651,36 +19513,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 310000
+          "price": 290000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 540,
-          "price": 380000
+          "price": 350000
         },
         {
           "days": 127,
           "start": 540,
           "end": 1380,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1380,
           "end": 1440,
-          "price": 310000
+          "price": 290000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -19711,7 +19573,7 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
@@ -19723,7 +19585,7 @@
           "days": 127,
           "start": 480,
           "end": 1260,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
@@ -19733,8 +19595,8 @@
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -19759,12 +19621,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 400000
+          "price": 360000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -19843,12 +19705,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 330000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -19873,12 +19735,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 390000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -19903,12 +19765,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 350000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -19933,12 +19795,12 @@
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 430000
+          "price": 400000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
@@ -19963,36 +19825,36 @@
           "days": 127,
           "start": 0,
           "end": 240,
-          "price": 270000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 0,
           "end": 1440,
-          "price": 410000
+          "price": 370000
         },
         {
           "days": 127,
           "start": 240,
           "end": 540,
-          "price": 270000
+          "price": 260000
         },
         {
           "days": 127,
           "start": 540,
           "end": 1320,
-          "price": 430000
+          "price": 420000
         },
         {
           "days": 127,
           "start": 1320,
           "end": 1440,
-          "price": 270000
+          "price": 260000
         }
       ],
       "lifecycle": "active",
-      "lastCheckedAt": "2026-09-09T03:13:27.953Z",
-      "lastSuccessfulAt": "2026-09-09T03:13:27.953Z"
+      "lastCheckedAt": "2026-09-16T03:09:04.119Z",
+      "lastSuccessfulAt": "2026-09-16T03:09:04.119Z"
     },
     {
       "schemaVersion": 1,
